@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:21-11-2026
+## Reference Number:26018361
+## Name:Priyadharshini D
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,32 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+We propose a digital marketplace that directly connects farmers with consumers and bulk buyers.
+
+Farmers can register on the platform, upload their agricultural products, display prices and receive orders directly from customers.
+
+This platform reduces middlemen and helps farmers earn better profits. Consumers can also purchase fresh products at affordable prices.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1. Frontend: HTML, CSS and JavaScript.
+2. Backend: Python.
+3. Database: MySQL.
+4. AI: Demand forecasting.
+5. Logistics: Delivery management and route optimization.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. The platform can be developed using existing web technologies.
+2. Challenges include internet connectivity and transportation.
+3. A simple interface and local delivery partnerships can overcome these challenges.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
+1. Better profits for farmers.
+2. Affordable prices for consumers.
+3. Reduced middlemen.
+4. Improved agricultural supply chain.
+5. Supports rural development.
+   
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. https://www.sih.gov.in/
+2. https://agriwelfare.gov.in/
+3. https://www.digitalindia.gov.in/
