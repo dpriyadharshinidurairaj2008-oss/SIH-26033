@@ -40,7 +40,7 @@ This platform reduces middlemen and helps farmers earn better profits. Consumers
 5. Logistics: Delivery management and route optimization.
 
 
-<img width="406" height="734" alt="Screenshot 2026-11-21 161655" src="https://github.com/user-attachments/assets/0b470c4e-6628-4312-a230-a81df38eeb05" />
+<img width="617" height="921" alt="Screenshot 2026-11-21 162443" src="https://github.com/user-attachments/assets/0231a125-80da-497f-815c-86657f9b30f4" />
 
 ## Feasibility and Viability
 1. The platform can be developed using existing web technologies.
