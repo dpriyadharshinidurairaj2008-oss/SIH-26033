@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:21-11-2026
+# Date:22-11-2026
 ## Reference Number:26018361
 ## Name:Priyadharshini D
 
@@ -40,7 +40,7 @@ This platform reduces middlemen and helps farmers earn better profits. Consumers
 5. Logistics: Delivery management and route optimization.
 
 
-<img width="617" height="921" alt="Screenshot 2026-11-21 162443" src="https://github.com/user-attachments/assets/0231a125-80da-497f-815c-86657f9b30f4" />
+<img width="617" height="921" alt="Screenshot 2026-11-21 162443" src="https://github.com/user-attachments/assets/8c0aed37-bf6a-44f2-904c-990d4700f2d6" />
 
 ## Feasibility and Viability
 1. The platform can be developed using existing web technologies.
