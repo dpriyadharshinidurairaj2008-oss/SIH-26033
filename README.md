@@ -39,6 +39,9 @@ This platform reduces middlemen and helps farmers earn better profits. Consumers
 4. AI: Demand forecasting.
 5. Logistics: Delivery management and route optimization.
 
+ <img width="617" height="921" alt="Screenshot 2026-11-21 162443" src="https://github.com/user-attachments/assets/ce0be8da-7311-462e-9e37-7267c5f0bc24" />
+
+
 ## Feasibility and Viability
 1. The platform can be developed using existing web technologies.
 2. Challenges include internet connectivity and transportation.
